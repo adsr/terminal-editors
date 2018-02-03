@@ -1,0 +1,3 @@
+#!/bin/bash
+
+$EDITOR_TOOLS_DIR/cloc/cloc --git $EDITOR_REPO | grep '^SUM:' | awk '{print $5}'

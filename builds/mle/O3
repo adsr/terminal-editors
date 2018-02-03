@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CFLAGS='-O3' make && \
+    DESTDIR=${EDITOR_INSTALL_DIR} make install && \
+    ln -fs ${EDITOR_INSTALL_DIR}/mle ${EDITOR_BIN_PATH}

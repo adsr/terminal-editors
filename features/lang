@@ -1,0 +1,3 @@
+#!/bin/bash
+
+$EDITOR_TOOLS_DIR/cloc/cloc --git $EDITOR_REPO | grep -A2 '^Language' | tail -n1 | awk '{print $1}'

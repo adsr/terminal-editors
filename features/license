@@ -1,0 +1,6 @@
+#!/bin/bash
+
+case $EDITOR_NAME in
+    mle)    echo 'Apache' ;;
+    *)      echo '?'      ;;
+esac

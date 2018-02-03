@@ -1,0 +1,60 @@
+[submodule "editors/amp"]
+	path = editors/amp
+	url = https://github.com/jmacdonald/amp
+[submodule "editors/de"]
+	path = editors/de
+	url = https://github.com/driusan/de
+[submodule "editors/iota"]
+	path = editors/iota
+	url = https://github.com/gchp/iota
+[submodule "editors/jed"]
+	path = editors/jed
+	url = https://github.com/hankem/jed.git
+[submodule "editors/kakoune"]
+	path = editors/kakoune
+	url = https://github.com/mawww/kakoune
+[submodule "editors/kilo"]
+	path = editors/kilo
+	url = https://github.com/antirez/kilo
+[submodule "editors/micro"]
+	path = editors/micro
+	url = https://github.com/zyedidia/micro
+[submodule "editors/mle"]
+	path = editors/mle
+	url = https://github.com/adsr/mle
+[submodule "editors/nano"]
+	path = editors/nano
+	url = git://git.savannah.gnu.org/nano.git
+[submodule "editors/slap"]
+	path = editors/slap
+	url = https://github.com/slap-editor/slap
+[submodule "editors/smith"]
+	path = editors/smith
+	url = https://github.com/IGI-111/Smith
+[submodule "editors/textbringer"]
+	path = editors/textbringer
+	url = https://github.com/shugo/textbringer
+[submodule "editors/vis"]
+	path = editors/vis
+	url = https://github.com/martanne/vis
+[submodule "editors/viw"]
+	path = editors/viw
+	url = https://github.com/lpan/viw
+[submodule "editors/wed"]
+	path = editors/wed
+	url = https://github.com/rgburke/wed
+[submodule "editors/yi"]
+	path = editors/yi
+	url = https://github.com/yi-editor/yi
+[submodule "editors/vim"]
+	path = editors/vim
+	url = https://github.com/vim/vim
+[submodule "editors/sandy"]
+	path = editors/sandy
+	url = https://github.com/antics/sandy.git
+[submodule "editors/emacs"]
+	path = editors/emacs
+	url = https://git.savannah.gnu.org/git/emacs.git
+[submodule "tools/cloc"]
+	path = tools/cloc
+	url = https://github.com/AlDanial/cloc.git
